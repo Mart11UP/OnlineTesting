@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2006c7a2843279e4598781ed39185dd0, type: 3}
+  m_Name: EosApiKey
+  m_EditorClassIdentifier: 
+  epicProductName: Gatoland
+  epicProductVersion: 1.0
+  epicProductId: c136aabc1f914feb904f5af113a75aa6
+  epicSandboxId: 1a2b8e9396be4b3d9074e4767bded9ec
+  epicDeploymentId: 2082cb928dfc4601b6b038e83d78369c
+  epicClientId: xyza78911qS1mQ7rqCIiHU2vFpWz99Kl
+  epicClientSecret: DbAfWikUAuq7Fc4FKYGiM1OTqFuYes5+accaiMFOaOw
